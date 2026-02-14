@@ -1,5 +1,6 @@
-REQURIREMENTS:
+
 1.Streamlit
 2.yfinance
 3.plotly
+
 4.pandas
